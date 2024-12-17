@@ -9,9 +9,9 @@
 - [Mathematics for ML BOOK-MML](https://mml-book.github.io/book/mml-book.pdf)
 
 ## Machine Learning
-- [Broadcasting in Numpy] (https://numpy.org/doc/stable/user/basics.broadcasting.html)
-- [Numpy- Python Like you Mean it] (https://www.pythonlikeyoumeanit.com/index.html)
-- [Broadcasting and Vectorization] (https://blog.paperspace.com/numpy-optimization-vectorization-and-broadcasting/)
+- [Broadcasting in Numpy](https://numpy.org/doc/stable/user/basics.broadcasting.html)
+- [Numpy- Python Like you Mean it](https://www.pythonlikeyoumeanit.com/index.html)
+- [Broadcasting and Vectorization](https://blog.paperspace.com/numpy-optimization-vectorization-and-broadcasting/)
 
 
 
